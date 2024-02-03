@@ -22,5 +22,12 @@ int FindAckermanFunction(int n, int m)
     }
 }
 
-int result = FindAckermanFunction(n, m);
-Console.WriteLine($"Результат функции Аккермана: {result}");
+if (n>=0 && m>=0)
+{
+    int result = FindAckermanFunction(n, m);
+    Console.WriteLine($"Результат функции Аккермана: {result}");
+}
+else
+{
+    Console.Write("Вы ввели отрицательные числа");
+}
