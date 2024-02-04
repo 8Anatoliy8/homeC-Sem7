@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Study\\4.Introduction_to_languages\\Homework_Sem7\\task1\\Task1.csproj": {}
+    "D:\\Study\\4.Introduction_to_languages\\Homework_Sem7\\Task1\\Task1.csproj": {}
   },
   "projects": {
-    "D:\\Study\\4.Introduction_to_languages\\Homework_Sem7\\task1\\Task1.csproj": {
+    "D:\\Study\\4.Introduction_to_languages\\Homework_Sem7\\Task1\\Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Study\\4.Introduction_to_languages\\Homework_Sem7\\task1\\Task1.csproj",
+        "projectUniqueName": "D:\\Study\\4.Introduction_to_languages\\Homework_Sem7\\Task1\\Task1.csproj",
         "projectName": "Task1",
-        "projectPath": "D:\\Study\\4.Introduction_to_languages\\Homework_Sem7\\task1\\Task1.csproj",
+        "projectPath": "D:\\Study\\4.Introduction_to_languages\\Homework_Sem7\\Task1\\Task1.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Study\\4.Introduction_to_languages\\Homework_Sem7\\task1\\obj\\",
+        "outputPath": "D:\\Study\\4.Introduction_to_languages\\Homework_Sem7\\Task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
